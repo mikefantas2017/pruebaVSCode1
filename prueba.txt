@@ -2,8 +2,8 @@
 ----------------------
 Esto es una prueba de repositorios con git.
 
+----
 
-
--------
 Mike.
 Mike 2.
+Mike 3.
