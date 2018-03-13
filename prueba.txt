@@ -2,7 +2,7 @@
 ----------------------
 Esto es una prueba de repositorios con git.
 Se hace también cambios en este archivo, en el repositorio remoto,
-para ejemplificar ejemplo de pull (obtener los cambios ).
+para ejemplificar ejemplo de pull (obtener los cambios del repositorio remoto).
 ----
 
 Mike.
