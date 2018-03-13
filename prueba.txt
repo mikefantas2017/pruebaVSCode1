@@ -1,7 +1,8 @@
 12 de Marzo, 2018.
 ----------------------
 Esto es una prueba de repositorios con git.
-
+Se hace también cambios en este archivo, en el repositorio remoto,
+para ejemplificar ejemplo de pull (obtener los cambios ).
 ----
 
 Mike.
